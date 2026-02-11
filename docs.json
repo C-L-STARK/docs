@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "sequoia",
+  "theme": "almond",
   "name": "汇刃丨FXKILLER",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#8e0a0a",
+    "light": "#c90926",
+    "dark": "#710415"
   },
   "navigation": {
     "tabs": [
@@ -83,8 +83,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/light.svg",
+    "light": "/logo/dark.png",
+    "dark": "/logo/light.png",
     "href": "https://www.fxkiller.com"
   },
   "navbar": {
@@ -112,19 +112,46 @@
      "vscode"
    ]
   },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
-  },
   "description": "时间是优秀交易员的朋友",
   "appearance": {
     "default": "light",
     "strict": true
   },
   "banner": {
-    "content": "时间是优秀交易员的朋友"
+    "content": "时间是优秀交易员的朋友",
+    "dismissible": true
+  },
+  "background": {
+    "decoration": "windows",
+    "image": "/images/hero-light.png"
+  },
+  "fonts": {
+    "family": "Source Sans Pro",
+    "weight": 200,
+    "format": "woff2",
+    "heading": {
+      "family": "Roboto",
+      "weight": 500
+    },
+    "body": {
+      "family": "Source Sans Pro",
+      "weight": 100
+    }
+  },
+  "footer": {
+    "socials": {
+      "website": "https://www.fxkiller.com",
+      "youtube": "https://www.youtube.com/@FX-Killer-Trader",
+      "x": "https://x.com/RealFXkiller",
+      "telegram": "https://t.me/binance_cashcontrol"
+    }
+  },
+  "favicon": "/images/fxkiller-color-bg.jpg",
+  "thumbnails": {
+    "appearance": "light",
+    "background": "/logo/dark.png"
+  },
+  "styling": {
+    "eyebrows": "breadcrumbs"
   }
 }
