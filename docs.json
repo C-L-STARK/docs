@@ -1,13 +1,12 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
+  "theme": "sequoia",
+  "name": "汇刃丨FXKILLER",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
@@ -85,13 +84,14 @@
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/light.svg",
+    "href": "https://www.fxkiller.com"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@fxkiller.com"
       }
     ],
     "primary": {
@@ -118,5 +118,13 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "description": "时间是优秀交易员的朋友",
+  "appearance": {
+    "default": "light",
+    "strict": true
+  },
+  "banner": {
+    "content": "时间是优秀交易员的朋友"
   }
 }
