@@ -7,6 +7,7 @@
     "light": "#c90926",
     "dark": "#710415"
   },
+  "navigation":{},
   "logo": {
     "light": "/logo/dark.png",
     "dark": "/logo/light.png",
