@@ -7,21 +7,6 @@
     "light": "#c90926",
     "dark": "#710415"
   },
-  "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "官方网站",
-          "icon": "clarinet",
-          "color": {
-            "light": "#860b1c",
-            "dark": "#860b1c"
-          },
-          "href": "https://www.fxkiller.com"
-        }
-      ]
-    }
-  },
   "logo": {
     "light": "/logo/dark.png",
     "dark": "/logo/light.png",
